@@ -1,0 +1,13 @@
+.homeContainer {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+body {
+  display: block;
+  margin: 0px;
+  max-width: 100%;
+  overflow-x: hidden;
+}
